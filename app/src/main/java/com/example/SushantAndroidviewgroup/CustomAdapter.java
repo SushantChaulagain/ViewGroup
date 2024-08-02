@@ -1,4 +1,4 @@
-package com.example.androidviewgroup;
+package com.example.SushantAndroidviewgroup;
 
 import android.content.Context;
 import android.view.LayoutInflater;

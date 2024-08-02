@@ -1,4 +1,5 @@
-package com.example.androidviewgroup;
+// Adapter.java
+package com.example.SushantAndroidviewgroup;
 
 import android.view.LayoutInflater;
 import android.view.View;

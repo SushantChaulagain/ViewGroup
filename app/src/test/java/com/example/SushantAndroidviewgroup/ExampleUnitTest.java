@@ -1,4 +1,4 @@
-package com.example.androidviewgroup;
+package com.example.SushantAndroidviewgroup;
 
 import org.junit.Test;
 

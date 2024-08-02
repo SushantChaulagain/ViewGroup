@@ -1,4 +1,4 @@
-package com.example.androidviewgroup;
+package com.example.SushantAndroidviewgroup;
 
 import android.content.Intent;
 import android.os.Bundle;
@@ -8,6 +8,8 @@ import android.widget.EditText;
 import android.widget.Toast;
 import androidx.activity.EdgeToEdge;
 import androidx.appcompat.app.AppCompatActivity;
+
+import com.example.androidviewgroup.R;
 
 import java.util.ArrayList;
 
